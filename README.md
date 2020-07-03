@@ -14,7 +14,7 @@ Feel free to fork it, modify it, remove it, explode it, melt it, smash it or coo
 
 * It actually works now and can be implemented in some other project.
 * It runs the stream of nodes in a single thread
-* It supports loops and if conditions
+* It supports loops 
 * In main.py you will see the test setup, where I created nodes, plugs, connected them and run them
 * Every node does the same thing - taked all input plugs with numbers passed in, sums it up and pushed forward. So it's a "Node Based Sum Calculator". But in the future every node will be a separate class with it's own computing methods.
 
